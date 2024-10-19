@@ -1,5 +1,7 @@
 # Ex04 Places Around Me
 ## Date: 17/10/2024
+## Name: Mohamed Faizal M
+## Reg no: 24000006
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -216,7 +218,8 @@ The waves on the beach are mild, making it ideal for swimming. The crabs on the 
 
 ## OUTPUT
 ## map.html
-![image](https://github.com/user-attachments/assets/5c075ed7-d49d-4588-9195-074526bf2f1d)
+![CUDDALORE](https://github.com/user-attachments/assets/6a990c5b-fd72-4f0e-8c3e-4d9001dbac5a)
+
 ## Silver_Beach.html
 ![image](https://github.com/user-attachments/assets/4610a27d-0695-4bcc-ac9e-9d8732298a3d)
 ## Cuddalore_Port.html
